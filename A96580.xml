@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of Their Majesties commission under the Great Seal, dated the 15th day of June 1694. For taking subscriptions for the bank, pursuant to the late act of Parliament.</title>
+            <author>England and Wales. Sovereign (1689-1694 : William and Mary)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96580</idno>
+            <idno type="STC">Wing W2498</idno>
+            <idno type="STC">ESTC R224469</idno>
+            <idno type="EEBO-CITATION">45578515</idno>
+            <idno type="OCLC">ocm 45578515</idno>
+            <idno type="VID">172427</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172427)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2629:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of Their Majesties commission under the Great Seal, dated the 15th day of June 1694. For taking subscriptions for the bank, pursuant to the late act of Parliament.</title>
+                  <author>England and Wales. Sovereign (1689-1694 : William and Mary)</author>
+                  <author>William III, King of England, 1650-1702.</author>
+                  <author>Mary II, Queen of England, 1662-1694.</author>
+                  <author>England and Wales. Act for Granting to Their Majesties Several Rates and Duties upon Tunnage of Ships and Vessels, and upon Beer, Ale, and Other Liquors.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bank of England.</term>
+               <term>Tonnage fees --  Great Britain --  Early works to 1800.</term>
+               <term>Tariff --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172427:1"/>
+            <pb n="1" facs="tcp:172427:1" rendition="simple:additions"/>
+            <head>An Abſtract of Their Majeſties Commiſſion, under the Great Seal, dated the 15th day of <hi>June</hi> 1694. For taking Subſcriptions for the Bank, purſuant to the late Act of Parliament.</head>
+            <p>
+               <hi>The Commiſſion recites the Act of Parliament, as followeth,</hi> viz.</p>
+            <p>
+               <hi>WHEREAS</hi> by an <hi>Act,</hi> Intituled, <hi>An Act for Granting to Their Ma<g ref="char:EOLhyphen"/>jeſties ſeveral Rates and Duties upon Tunnage,</hi> &amp;c. it is <hi>Enacted,</hi> That for four years, from the firſt of <hi>June</hi> 1694, there ſhall be paid upon the <hi>Tunnage</hi> of all Veſſels, wherein any Goods ſhall be Imported from any the Countries in the <hi>Act</hi> named, or Coaſtwiſe, from Port to Port in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> the ſeveral Rates in the <hi>Act</hi> mentioned, and certain <hi>Additional Duties of Exciſe, on Beer, Ale, and other Liquors.</hi>
+            </p>
+            <p>And that <hi>Weekly,</hi> on every <hi>Wedneſday,</hi> if not an Holy-Day, and if it be, the next day not being an Holy-Day, all the Monies ariſing by the ſaid Rates ſhall be paid into the <hi>Exchequer.</hi>
+            </p>
+            <p>And that <hi>yearly</hi> beginning from the firſt of <hi>June</hi> 1694, the Sum of 140000 <abbr>
+                  <hi>l.</hi>
+               </abbr> ariſing out of the ſaid <hi>Duties</hi> and <hi>Rates</hi> (in caſe the Weekly Payments extend thereunto) ſhall be the yearly Fund, (and if they do not extend thereunto) then the ſaid Weekly Payments, ſo far as they will extend, ſhall be part of the yearly Fund: And in Caſe the Duties and Rates ſhall be ſo low, as that within any one year the Weekly Payment ſhall not amount to 140000 <abbr>
+                  <hi>l.</hi>
+               </abbr> or be ſufficient to anſwer the Recompences by the Act intended; in ſuch Caſe, the Commiſſioners of the Treaſury are ſtrictly enjoyned, without any Warrant from Their Majeſties, their Heirs, or Succeſſors, to make good ſuch Deficiency, out of any Treaſure or Revenue of the Crown not Appropriated.</p>
+            <p>And that it ſhould be Lawful for <hi>Their Majeſties,</hi> to Commiſſionate any number of Perſons to receive ſuch <hi>Subſcriptions</hi> as ſhould be made before the firſt of <hi>Auguſt</hi> next, by any <hi>Natives</hi> or <hi>Foreigners,</hi> or <hi>Corporations,</hi> towards paying, into the <hi>Ex<g ref="char:EOLhyphen"/>chequer,</hi> the Sum of 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> and that the yearly Sum of 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> ſhall be Ap<g ref="char:EOLhyphen"/>propriated to ſuch Subſcribers, <hi>&amp;c.</hi>
+            </p>
+            <p>And that the ſaid Weekly Payments, as they come in, ſhall be divided into 5/7 parts, and 2/7 parts, which 5/7 parts ſhall be Appropriated to the paying of the ſaid 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum,</hi> and ſhall be paid as the ſame comes into the <hi>Exchequer, to the uſe of ſuch Subſcribers.</hi>
+            </p>
+            <p>And that <hi>Their Majeſties</hi> may appoint how the ſaid 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> and 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum,</hi> ſhall be <hi>Aſſignable;</hi> and may <hi>Incorporate</hi> ſuch Subſcribers by the Name of the <hi>Governor and Company of the Bank of</hi> England, ſubject to the Condition of Re<g ref="char:EOLhyphen"/>demption.</p>
+            <p>And if 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> be not paid into the <hi>Exchequer</hi> by the firſt of <hi>January</hi> 1694. then the Subſcribers ſhall have only after the Rate of 8 <hi>per Cent. per Annum;</hi> And the Commiſſioners of the Treaſury are required without any Warrant from Their Majeſties, Their Heirs or Succeſſors, to pay the ſaid 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum.</hi>
+            </p>
+            <p>And that no Perſon or Corporation ſhall Subſcribe more than 20000 <abbr>
+                  <hi>l.</hi>
+               </abbr> and every Subſcriber, at the time of his Subſcribing, ſhall Pay ¼ part of his Subſcription, and in Default thereof, ſuch Subſcriptions ſhall be void; That the Reſidue of the Subſcriptions ſhall be paid into the <hi>Exchequer</hi> before the firſt of <hi>January;</hi> and in Default thereof the ¼ part ſhall be Forfeit: And that none before the firſt of <hi>July</hi> ſhall write above 10000 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>Provided if 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> or a Moiety be not Subſcribed by the firſt of <hi>Auguſt,</hi> then the Power for erecting a Corporation ſhall ceaſe; And in ſuch Caſe, ſo much of the 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> as ſhall belong to the Subſcribers may be Aſſignable, and that the Monies payable by the Act, to any Perſon, ſhall not be Chargeable with any Duties or Im<g ref="char:EOLhyphen"/>poſitions, as by the ſaid Act may appear.</p>
+            <p>Their Majeſties being Reſolved, That if the whole 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> or a Moiety or more thereof be Subſcribed by the firſt of <hi>August</hi> next, to Incorporate the Subſcri<g ref="char:EOLhyphen"/>bers, have nominated and appointed, <hi>A. B.</hi> &amp;c. (the Commiſſioners named in the Commiſſion) or any 5 or more of them to take the voluntary Subſcriptions of any Natives, Foreigners, or Bodies Politick, before the ſaid firſt of <hi>Auguſt,</hi> towards raiſing the ſaid 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> taking care that none write above 20000 <abbr>
+                  <hi>l.</hi>
+               </abbr> And that before the firſt of <hi>July</hi> none write above 10000 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <pb n="2" facs="tcp:172427:2"/>
+            <p>That within Ten Days after the date hereof, the Commiſſioners, or any Five or more of them, ſhall provide a convenient publick Office, within the Cities or Sub<g ref="char:EOLhyphen"/>urbs of <hi>London</hi> and <hi>Weſtminſter,</hi> for taking Subſcriptions, giving ſuch publick Notice thereof as they think fit: And alſo a Book or Books of Vellum for the ſaid Subſcriptions, to lie open every day but Sundays, from 8 to 12 in the morning, and from 3 to 8 in the afternoon, until the firſt of <hi>August,</hi> unleſs 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> be ſooner Subſcribed.</p>
+            <p>That in the Title of every Book ſhall be written, That the ſame contains the Sub<g ref="char:EOLhyphen"/>ſcription, Authorized to be made by the ſaid Act, and this Commiſſion, of the reſpective Sums which the ſaid ſeveral Perſons ſhall ſet againſt their Names, ¼ part of which Sums is to be paid by each Subſcriber at the making ſuch Subſcription, to the Hands of the Commiſſioners, and the Reſidue as is hereafter directed.</p>
+            <p>That the Commiſſioners take care that the Sums be written in Words at length as well as Figures, with a Column for the Day of each Subſcription.</p>
+            <p>That the Subſcription ſhall be atteſted under the Hands and Seals of two or more of the Commiſſioners preſent at the taking them.</p>
+            <p>That no Subſcription be made after the Firſt of <hi>Auguſt,</hi> and that the Commiſſioners or any five or more, after the Firſt of <hi>Auguſt,</hi> or after the ſaid 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> is Subſcribed, (which ſhall firſt happen) make true Duplicates in Parchment of the whole Subſcrip<g ref="char:EOLhyphen"/>tions, and deliver the ſame atteſted by Five or more of the Commiſſioners, into the Auditors Office of the <hi>Exchequer</hi> to be there Recorded, that it may appear whether the whole 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> was written within the time limited, and by whom.</p>
+            <p>And Their Majeſties do enjoyn the ſaid Commiſſioners, or any Five, to receive from every Subſcriber at the time of his Subſcribing a ¼ part of his Subſcription in ready Money.</p>
+            <p>And that the Commiſſioners, or any 9 or more, may appoint Caſhiers for keeping the Money to be approved of by the Commiſſioners of the Treaſury, or any three, taking ſuch Security as the Commiſſioners think fit in Their Majeſties Name, to be approved by the Commiſſioners of the Treaſury, as aforeſaid. And Their Maje<g ref="char:EOLhyphen"/>ſties Command the Commiſſioners and Caſhiers, who ſhall receive the ſaid Fourth part, to keep it ſafely till it ſhall be payable into the <hi>Exchequer,</hi> as is hereafter di<g ref="char:EOLhyphen"/>rected, <hi>viz.</hi> Their Majeſties Command the ſaid Commiſſioners and Caſhiers, that in caſe the whole 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> or a Moiety, or any greater part be Subſcribed before the Firſt of <hi>Auguſt,</hi> as ſoon as the Charter ſhall be paſſed under the Great Seal, to pay all the ſaid Fourth Part into the <hi>Exchequer,</hi> in the Name of the Governor and Company of the Bank of <hi>England.</hi>
+            </p>
+            <p>And upon ſuch Payment the Commiſſioners of the Treaſury and Officers of the <hi>Exchequer</hi> are required to ſtrike Talleys, Importing ſo much received from the ſaid Corporation, by the hands of the ſaid Commiſſioners, and to draw and Sign <hi>Exche<g ref="char:EOLhyphen"/>quer</hi> Orders for paying the ſaid Corporation, and their Succeſſors for ever (Subject to the Condition of the Redemption) a proportionable part of the ſaid 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum,</hi> for every Sum of the firſt fourth part ſo paid.</p>
+            <p>And in caſe 600000 <abbr>
+                  <hi>l.</hi>
+               </abbr> be not Subſcribed by the Firſt of <hi>Auguſt,</hi> Their Majeſties Command the Commiſſioners and Caſhiers who ſhall have the Cuſtody of the 4th part, to pay the ſame into the <hi>Exchequer</hi> in the name of the Subſcribers, their Heirs, <hi>&amp;c.</hi> and upon every ſuch Payment, the Commiſſioners of the Treaſury, and the other Officers are to Strike Talleys for the ſame, Importing ſo much received from the re<g ref="char:EOLhyphen"/>ſpective Subſcribers, by the Hands of the Commiſſioners, and to draw <hi>Exchequer</hi> Or<g ref="char:EOLhyphen"/>ders for paying the ſaid Subſcribers, their Heirs, <hi>&amp;c.</hi> for ever (Subject to the ſaid Redemption) proportionable parts of the ſaid 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum,</hi> for every Sum paid into the <hi>Exchequer;</hi> and this Commiſſion, or the Enrollment thereof ſhall be to the ſaid Commiſſioners of the Treaſury and Officers a ſufficient Warrant in that behalf.</p>
+            <p>And as to the remaining ¼ parts of the ſaid Subſcription, Their Majeſties declare the 2d 4th part ſhall be paid into the <hi>Exchequer</hi> by the Firſt of <hi>October</hi> next: And the remaining 2/4 parts ſhall be paid before the firſt of <hi>January</hi> next.</p>
+            <p>And if 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> or a Moiety or any greater part thereof be ſubſcribed by the firſt of <hi>Auguſt,</hi> then all the Money ſubſcribed (the firſt 4th part only excepted) ſhall be paid into the <hi>Exchequer</hi> as the Governor or Deputy-Governor of the ſaid Corpo<g ref="char:EOLhyphen"/>vation, and 13 or more of the Directors in the ſaid intended Charter ſhall appoint, ſo as a full 2d part be entirely paid into the <hi>Exchequer</hi> by the firſt of <hi>October</hi> next, and the remaining ¾ parts before the firſt of <hi>January</hi> next. And if 600000 <abbr>
+                  <hi>l.</hi>
+               </abbr> or more, be not Subſcribed by the firſt of <hi>Auguſt,</hi> then all the Money Subſcribed (the firſt 4th part only excepted) ſhall be paid into the <hi>Exchequer</hi> by the ſeveral Subſcribers their Heirs, <hi>&amp;c.</hi> by the Times and Proportions before limited.</p>
+            <pb n="3" facs="tcp:172427:2" rendition="simple:additions"/>
+            <p>And upon every ſuch payment of any of the laſt ¾ parts. Their Majeſties Com<g ref="char:EOLhyphen"/>mand the Commiſſioners of the Treaſury, and the Officers of the <hi>Exchequer</hi> to ſtrike Talleys as well for the Money paid in by the Corporation, as by the Subſcribers, and draw ſuch <hi>Exchequer</hi> Orders as aforeſaid, for the proportionable parts of the ſaid yearly Fund, to be paid in each caſe reſpectively, either to the Corporation or Sub<g ref="char:EOLhyphen"/>ſcribers, according to the Act, Subject to the ſaid Redemption.</p>
+            <p>And Their Majeſties Command the Commiſſioners, or any 5 or more receiving the ſaid firſt 4th part, to give the Perſons paying the ſame a Receipt in Writing for the ſeveral Sums ſo received, and enter the ſame in a Book inſerting the day of ſuch Payment, the names of the Commiſſioners receiving the ſame, and the Name and Abode of the Perſons paying the ſame, with their proper Additions and the Sum paid.</p>
+            <p>And that the Commiſſioners, or any five, after the Firſt of <hi>Auguſt,</hi> without delay, ſhall make a fair Accompt in Parchment of all the ſaid Receipts, with the particu<g ref="char:EOLhyphen"/>lars expreſſed, as aforeſaid, and deliver the ſame, atteſted by any five or more Com<g ref="char:EOLhyphen"/>miſſioners, into the Auditors Office of the <hi>Exchequer,</hi> there to be Recorded, as well to charge the ſaid Commiſſioners or their Caſhiers with the Money, as to guide the Commiſſioners of the Treaſury, and other Officers, with the payment of the Appro<g ref="char:EOLhyphen"/>priated Fund.</p>
+            <p>Their Majeſties require the Commiſſioners to meet and attend at the publick Office; and if it ſhall be thought moſt Convenient to have ſeveral Offices, the Commiſſioners may Subdivide themſelves, taking care that ſome attend in each Office, and that they and their Caſhiers diligently attend Their Majeſties Service.</p>
+            <p>And the Commiſſioners of the Treaſury, <hi>&amp;c.</hi> are required to be aſſiſting to the Commiſſioners, and out of any of Their Majeſties Treaſure (not appropriated by Act of Parliament) to iſſue and pay to ſuch Perſon as they ſhall appoint, ſuch Mo<g ref="char:EOLhyphen"/>ney as ſhall be neceſſary to be laid out in the Execution of the Commiſſion.</p>
+            <p>And that the Corporation may be ſetled to the Satisfaction of the Subſcribers, Their Majeſties direct, That the Commiſſioners, or any five or more, after the Firſt of <hi>Auguſt,</hi> or ſo ſoon as 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> is ſubſcribed, which ſhall firſt happen, do affix publick Notice on the <hi>Royal Exchange,</hi> for all thoſe who have ſubſcribed,<note place="margin">They muſt take the Oaths before they Vote.</note> not leſs than 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> and paid their Fourth Part, to meet on a Day appointed, which is not to be ſooner than four Days, nor later than eight Days after the Notice, to Elect Per<g ref="char:EOLhyphen"/>ſons qualified, as hereafter mentioned, to be the firſt Governor, Deputy, and Di<g ref="char:EOLhyphen"/>rectors of the intended Corporation.</p>
+            <p>And that all the Subſcribers, their Heirs, <hi>&amp;c.</hi> may meet and Chooſe out of the whole Subſcribers (of whom none ſhall have more than one Vote) one Perſon, who hath ſubſcribed in his own Right 4000 <abbr>
+                  <hi>l.</hi>
+               </abbr> at leaſt and paid ¼ Part thereof at leaſt, at the time of his Subſcription to be the firſt Governor, and one other Perſon, who hath Subſcribed 3000 <abbr>
+                  <hi>l.</hi>
+               </abbr> at leaſt, and paid ¼ Part thereof, in manner aforeſaid, to be the firſt Deputy Governor, and Twenty four other Perſons, each of which have ſeverally Subſcribed in their own Right 2000 <abbr>
+                  <hi>l.</hi>
+               </abbr> at leaſt, and paid ¼ Part thereof as aforeſaid, to be the firſt Directors, which Elections ſhall be determined by the Majority of Votes then preſent, and in caſe they be equal, then by the Commiſſioners, or the Major Part of them.</p>
+            <p>That the Perſons ſo Elected ſhall be inſerted in the ſaid intended Charter, and made the firſt Governor, Deputy Governor, and Directors, to continue in their Offices from the Date of the Charter till the 25th of <hi>March</hi> 1696, and till others be choſen in their Rooms, and Sworn, ſubject nevertheleſs to the Reſtrictions and Proviſoes in the ſaid Act, and to ſuch other Rules as ſhall be inſerted in the Charter, the Draught whereof is contained in the Scedule annexed.</p>
+            <p>Provided no Subſcriber ſhall be capable to Vote in the Elections of the firſt Go<g ref="char:EOLhyphen"/>vernor, Deputy, or Directors, untill he hath taken the Oath following, <hi>viz. I</hi> A. B. <hi>do ſwear that the Sum of</hi> 500 <abbr>l.</abbr> 
+               <hi>by me Subſcribed (or the Sum of</hi> 500 <abbr>l.</abbr> 
+               <hi>of the Money by me Subſcribed) is my own proper Money, for my own Uſe, and in my own Right, and not in Truſt for any Perſon whatſoever.</hi>
+            </p>
+            <p>Provided nevertheleſs, That any Quaker, who hath Subſcribed 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> as afore<g ref="char:EOLhyphen"/>ſaid, and made and ſigned the Declaration following, <hi>viz. I</hi> A. B. <hi>do ſincerely and ſo<g ref="char:EOLhyphen"/>lemnly declare, in the Preſence of God, that the Sum of</hi> 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>by me Subſcribed</hi> (and ſo on as in the Oath aforeſaid) ſhall be capable to Vote in the ſaid Elections of the firſt Governor, Deputy, or Directors.</p>
+            <p>Provided that no Subſcriber ſhall be capable to be choſen the firſt Governor, De<g ref="char:EOLhyphen"/>puty, or Director, unleſs he or they be a Natural Born, or Naturalized Subject, <hi>and
+<pb n="4" facs="tcp:172427:3"/>hath,</hi>
+               <note place="margin">They muſt take the Oaths before they ſtand Can<g ref="char:EOLhyphen"/>didates.</note> 
+               <hi>or have taken an Oath, that the Sums, which in the reſpective Caſes of Governor, De<g ref="char:EOLhyphen"/>puty or Directors, are requiſite to be ſubſcribed as aforeſaid, are his own proper Moneys, ſubſcrib<g ref="char:EOLhyphen"/>ed for his own Uſe, and in his own Right, and not in Truſt for any other Perſon; and any two of the Commiſſioners are empowered to Adminiſter the ſaid Oaths and Declarations to the Per<g ref="char:EOLhyphen"/>ſons who are to Chooſe, or be the firſt Governor, Deputy, and Directors.</hi>
+            </p>
+            <p>And that all Subſcribers may be aſſured and ſatisfied, the Powers veſted in their Majeſties, by the Act to Erect a Corporation, ſhall be truly executed, Their Maje<g ref="char:EOLhyphen"/>ſties Promiſe and Declare, and alſo Covenant, Grant, and Agree with the Commiſ<g ref="char:EOLhyphen"/>ſioners, on behalf of themſelves and every Subſcriber, that in caſe the whole 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> or a Moiety, or any greater Part thereof ſhall be Subſcribed on the ſaid Act, or in purſuance of this Commiſſion, before the firſt of <hi>Auguſt</hi> next, then imme<g ref="char:EOLhyphen"/>diately after the ſaid firſt Day of <hi>Auguſt,</hi> or ſo ſoon as 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> be Subſcribed, which ſhall firſt happen, Their Majeſties will Grant a Charter to Incorporate all the Subſcribers then living, who ſhall not have Aſſigned their Intereſt, and (in caſe any of them be dead) their Heirs, and (in caſe any of the Subſcribers ſhall have Aſſigned their Intereſt) their Aſſignees to be one Corporation, called the Governor and Com<g ref="char:EOLhyphen"/>pany of the Bank of <hi>England,</hi> with ſuch Powers, Priviledges, <hi>&amp;c.</hi> and under ſuch Rules, Power of Redemption, and Reſtrictions, as are contained in the ſaid Act, or intended by the Schedule annexed, and with ſuch further Power as ſhall be adviſed by the Subſcribers Councel, and approved by Their Majeſties Attorney or Sollicitor General.</p>
+            <p>And Their Majeſties direct, That the whole Sum Subſcribed, ſhall be, and be called, <hi>A Common, Capital, and Principal Stock:</hi> And that every Perſon, according to the Sum ſubſcribed and paid, ſhall have an Intereſt and Share in the ſaid Principal Stock of 1200000, and in the ſaid yearly Fund of 100000 <abbr>l.</abbr> 
+               <hi>per Annum;</hi> which Intereſt may be aſſigned to any Perſons or Bodies Politick, and ſo over <hi>(toties quoties)</hi> as fully as any other Intereſt which is by Law aſſignable; which Aſſignment ſhall veſt the Intereſt in the Aſſignee, his Heirs, <hi>&amp;c.</hi> and after ſuch Aſſignment, it ſhall not be in the Power of the Aſſignor to revoke or void the ſame, ſo as it be made in Writing, and Regiſtred in manner following, <hi>viz.</hi> All Aſſignments made before the firſt of <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> or the full Subſcribing of the ſaid 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> (which ſhall firſt happen) and be<g ref="char:EOLhyphen"/>fore Granting the Charter, ſhall be entered in the Auditor's Office of the <hi>Exchequer,</hi> within ſix days after the making thereof: And all Aſſignments made after the ſaid Charter, ſhall be Regiſtred in the Form thereby preſcribed.</p>
+            <p>And if for Default in Subſcribing 600000 <abbr>
+                  <hi>l.</hi>
+               </abbr> before the firſt of <hi>Auguſt,</hi> the Powers in the Act for Erecting a Corporation ſhall ceaſe, then all Aſſignments ſhall be entered in the Office of the Remembrancer in the <hi>Exchequer,</hi> as the Act directs.</p>
+            <p>Provided, That the Commiſſioners joyned in this Commiſſion ſhall be lyable to Their Majeſties, every one for his own Actings, and not one for another, or for the Caſhiers, or in any caſe where there is not particular fraud.</p>
+            <p>Provided, That every of the Commiſſioners acting in this Commiſſion be Sworn to the faithful Diſcharge thereof; and Their Majeſties empowereth the Lord Keeper, Lord Chancellor, and Chief Baron of the <hi>Exchequer,</hi> or ſuch two of the Commiſſioners as ſhall be firſt Sworn before ſome of them to adminiſter ſuch Oaths in theſe Words, viz. <hi>I</hi> A, B. <hi>do ſwear, that I will faithfully execute the Truſt in me repoſed, as one of the Commiſſioners appointed by Their Majeſties for taking Subſcriptions, and doing other things purſuant to the Act of Parliament, to the beſt of my Skill, without Deceit.</hi>
+            </p>
+            <p>Provided, That if any of the Commiſſioners dye before all things hereby intended are accompliſhed, this Commiſſion ſhall not determine, but be performed by the reſt, ſo there be a ſufficient Number left.</p>
+            <p>And in Default thereof, Their Majeſties promiſe, That a new Commiſſion ſhall be granted for the Accompliſhment of all things intended for the Security of the Subſcribers.</p>
+            <p>Provided alſo, that any of the Commiſſioners may be Subſcribers, and the reſt, or ſo many as aforeſaid, may take ſuch Subſcriptions from any of the Commiſſioners, and receive the Money, and do all other things thereupon directed, as in the caſe of other Subſcribers; and that where any of the Commiſſioners Subſcribe, ſuch Sub<g ref="char:EOLhyphen"/>ſcription ſhall be made before, and atteſted in the Book by ſome other of the Com<g ref="char:EOLhyphen"/>miſſioners who are to give Receipts for the ſame.</p>
+            <p>And Laſtly, That this Commiſſion, or the Inrollment thereof, ſhall be a ſufficient Warrant to every of the Commiſſioners for all Things done in purſuance thereof.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
